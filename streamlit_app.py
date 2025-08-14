@@ -9,7 +9,7 @@ def main():
     
     # Main title in orange
     st.markdown(
-        '<h1 style="color: #FF8C00; text-align: center;">Con pobreza multidimensional Nuevo León 2024</h1>',
+        '<h1 style="color: #FF8C00; text-align: center;">Pobreza multidimensional Nuevo León 2024</h1>',
         unsafe_allow_html=True
     )
     
